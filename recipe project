@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<!--Cash Caruso-->
+<html>
+    <head>
+        <style>
+            
+           h1 {color:rgb(210, 4, 45);font-family:arial black} 
+           h2 {color:rgb(210, 4, 45);font-family:arial black;}
+           p {color:rgb(210, 4, 45);font-family:arial;}
+           ul {color:rgb(210, 4, 45);font-family:arial;}
+           tr {color:rgb(210, 4, 45);}
+           body {background-color:rgb(247, 244, 220);font-family:arial;}
+           .po img {height:150px;width:570px;object-fit:cover;}
+            .pie img {height:150px;width:570px;object-fit:cover;}
+            .bread img {height:150px;width:570px;object-fit:cover;}
+            .bread2 img {height:150px;width:570px;object-fit:cover;}
+    
+        </style>
+    
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    
+        <h1 id="4"><center>Cash's Fall Recipe Book</center></h1>
+        <div class="po">      
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Copper_Beech_Fagus_sylvatica_f._purpurea_Autumn_Leaves_Closeup_3008px.jpg/640px-Copper_Beech_Fagus_sylvatica_f._purpurea_Autumn_Leaves_Closeup_3008px.jpg" width="200" alt="close up of fall leafes"> </div>
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#1">Apple Pie Recipe</a></li>
+             <li><a href="#2">Pumpkin Spice Bread</a></li>
+             <li><a href="#3">Pumpkin Cinnamon Roll</a></li>
+        </ol>
+        
+        <h2 id="1"><center>Apple Pie Recipe</center></h2>
+        
+        <div class="pie">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Apple_pie_19.jpg/640px-Apple_pie_19.jpg" width="200" alt="close up of a pie"> </div>
+        
+        <ul>
+            <li>Time: 3 hours</li>
+            <li>Serves: 1-6 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients..........</th>
+                    <th>Quantity</th>
+                    </tr>
+            </thead>
+            <tbody>
+            <td><strong>Medium Sized Apples</strong>-------------------------------------------------------------</td>
+                        <td>2 Lbs</td>
+                
+                     <tr>
+                        <td><strong>Pie Crust</strong>------------------------------------------------------------------------------</td>
+                        <td>1 Crust
+                    </tr>
+                     <tr>
+                        <td><strong>Sugar</strong>-----------------------------------------------------------------------------------</td>
+                        <td>3/4 Cup
+                    </tr>
+                     <tr>
+                        <td><strong>All Purpose Flour</strong>-------------------------------------------------------------------</td>
+                        <td>2 Tbsp
+                    </tr>
+                 <tr>
+                        <td><strong>Ground Cinnamon</strong>-----------------------------------------------------------------</td>
+                        <td>3/4 Tsp
+                    </tr>
+                 <tr>
+                        <td><strong>Table Salt</strong>------------------------------------------------------------------------------</td>
+                        <td>1/4Tsp
+                    </tr>
+                 <tr>
+                        <td><strong>Ground Nutmeg</strong>---------------------------------------------------------------------</td>
+                        <td>1/8 Tsp
+                    </tr>
+                     <tr>
+                        <td><strong>Lemon Juice</strong>-------------------------------------------------------------------------</td>
+                        <td>1 Tbsp
+                    </tr>
+    
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1: </strong>Heat oven to 425°F. Place 1 pie crust in ungreased 9-inch glass pie plate. Press firmly against side and bottom.  </p>
+        <p><strong>Step 2: </strong>In large bowl, gently mix filling ingredients; spoon into crust-lined pie plate. Top with second crust. Wrap excess top crust under bottom crust edge, pressing edges together to seal; flute. Cut slits or shapes in several places in top crust.
+</p>
+        <p><strong>Step 3: </strong> Bake 15 minutes. Reduce oven temperature to 350°F; bake 40 to 50 minutes longer or until knife inserted near center comes out clean. Cool on cooling rack at least 2 hours. Serve or refrigerate until serving time. Store in refrigerator.
+</p>
+    <p><em>Source: <a href="https://www.pillsbury.com/recipes/easiest-ever-pumpkin-pie/5793eb83-dca1-45e0-96e1-7f73af9e282f">Pillsbury Pumpkin Pie Recipe</a></em></p>
+    
+       <h2 id="2"><center>Pumpkin Spice Pull-Apart Bread</center></h2>
+        
+        <div class="bread">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pumpkin_Walnut_Bread.jpg/640px-Pumpkin_Walnut_Bread.jpg" width="200" alt="pumpkin bread"> </div>
+        
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: 1-8 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients..........</th>
+                    <th>Quantity</th>
+                    </tr>
+            </thead>
+            <tbody>
+            <td><strong>Granulated Sugar</strong>------------------------------------------------------------------</td>
+                        <td>1/4 Cup</td>
+                
+                     <tr>
+                        <td><strong>Pumpkin Pie Spice</strong>-----------------------------------------------------------------</td>
+                        <td>1 1/4 Tsp
+                    </tr>
+                     <tr>
+                        <td><strong>Pillsbury Biscuits</strong>------------------------------------------------------------------</td>
+                        <td>8 Count
+                    </tr>
+                     <tr>
+                        <td><strong>Melted Butter</strong>------------------------------------------------------------------------</td>
+                        <td>2 Tbsp
+                    </tr>
+                 <tr>
+                        <td><strong>Canned Pumpkin Pie Mix</strong>--------------------------------------------------------</td>
+                        <td>3/4 Cup
+                    </tr>
+                 <tr>
+                        <td><strong>Powdered Sugar</strong>--------------------------------------------------------------------</td>
+                        <td>1/4Tsp
+                    </tr>
+                 <tr>
+                        <td><strong>Milk</strong>--------------------------------------------------------------------------------------</td>
+                        <td>2-3 Tsp
+                    </tr>
+                     <tr>
+                        <td><strong>Vanilla</strong>----------------------------------------------------------------------------------</td>
+                        <td>1 Tsp
+                    </tr>
+    
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1: </strong>Heat oven to 350°F. Spray 9x5-inch loaf pan with cooking spray. In small bowl, mix granulated sugar and 1 teaspoon of the pumpkin pie spice.</p>
+        
+        <p><strong>Step 2: </strong>Separate dough into 8 biscuits. Separate each biscuit into 2 layers, making total of 16 biscuit rounds. Brush one side of each biscuit round with melted butter. Spread slightly less than 1 tablespoon pumpkin pie mix on top of each. Sprinkle rounds with spice-sugar mixture.
+</p>
+        <p><strong>Step 3: </strong>Stack biscuits in 4 piles of 4 biscuits each. Place stacks on their sides in a row in loaf pan, making sure sides without filling are on both ends touching pan.
+</p>
+
+ <p><strong>Step 4: </strong>Bake 40 to 45 minutes or until loaf is deep golden brown and center is baked through.
+</p>
+
+<p><strong>Step 5: </strong>Cool 10 minutes. Turn pan upside down on serving platter. In small bowl, mix powdered sugar, milk, vanilla and remaining 1/4 teaspoon pumpkin pie spice until thin enough to drizzle. Drizzle over warm loaf. Serve warm.
+</p>
+
+    <p><em>Source: <a href="https://www.pillsbury.com/recipes/pumpkin-spice-pull-apart-bread/486355a7-1159-4c50-a76c-41f433884a52">Pillsbury Pumpkin Spice Bread Recipe</a></em></p>
+    
+    <h2 id="3"><center>Pumpkin-Cinnamon Rolls</center></h2>
+        
+        <div class="bread2"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vegan_Pumpkin_Cinnamon_rolls_%285159613455%29.jpg/640px-Vegan_Pumpkin_Cinnamon_rolls_%285159613455%29.jpg" width="200" alt="pumpkin cinnamon rolls"> </div>
+        
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: 1-3 people</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients..........</th>
+                    <th>Quantity</th>
+                    </tr>
+            </thead>
+            <tbody>
+            <td><strong>Granulated Sugar</strong>------------------------------------------------------------------</td>
+                        <td>2/3 Cup</td>
+                
+                     <tr>
+                        <td><strong>Caramel Bits</strong>-------------------------------------------------------------------------</td>
+                        <td>1/3 Cup
+                    </tr>
+                     <tr>
+                        <td><strong>Pumpkin Spice Rolls</strong>--------------------------------------------------------------</td>
+                        <td>15 Count
+                    </tr>
+                     <tr>
+                        <td><strong>Peacans or Walnuts</strong>---------------------------------------------------------------</td>
+                        <td>1/3 Cup
+                    </tr>
+                 <tr>
+                        <td><strong>Butter</strong>-----------------------------------------------------------------------------------</td>
+                        <td>3/4 Cup
+                    </tr>
+                 <tr>
+                        <td><strong>Brown Sugar</strong>-------------------------------------------------------------------------</td>
+                        <td>1 Cup
+                    </tr>
+                 
+            </tbody>
+        </table>
+        
+        <p style="font-family: Arial"><strong>Step 1: </strong>Heat oven to 350°F. Butter 15-cup fluted tube cake pan. Place granulated sugar in resealable food-storage plastic bag.
+</p>
+        
+        <p><strong>Step 2: </strong>Separate dough from all cans into 15 rolls. Cut each roll into quarters to make 60 pieces. Place about 15 roll pieces in bag with sugar; shake to coat.
+</p>
+        <p><strong>Step 3: </strong>Arrange pieces in pan. Top with one-third of chopped caramels and pecans. Repeat layers ending with roll pieces.
+</p>
+
+ <p><strong>Step 4: </strong>In microwavable bowl, microwave butter on High until melted. Stir in brown sugar. Pour over roll pieces.
+</p>
+
+<p><strong>Step 5: </strong>Bake 40 to 45 minutes. Remove from oven to cooling rack. Cool in pan 15 to 20 minutes. Place cooling rack upside down over pan; turn rack and pan over. Remove pan.
+</p>
+
+<p><strong>Step 6: </strong>Spoon icing into small microwavable bowl. Microwave on High a few seconds or until icing can be poured. Pour over monkey bread. To serve, pull apart pieces of bread.
+</p>
+
+    <p><em>Source: <a href="https://www.pillsbury.com/recipes/pumpkin-cinnamon-roll-monkey-bread/f8b37dbe-421c-4556-83a6-cdbf71d4b2a8">Pillsbury Pumpkin Cinnamon Roll Recipe</a></em></p>
+<p><a href="#4"><center>Back to Top</center></a></p>    
+    
+    </body>
+</html>
